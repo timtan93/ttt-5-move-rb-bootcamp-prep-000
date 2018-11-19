@@ -11,3 +11,4 @@ def input_to_index(index)
   puts "Welcome to Tic Tac Toe! Where would you like to go?"
   gets (move)
   move.to_i
+  i += 1 
